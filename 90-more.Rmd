@@ -1,0 +1,9 @@
+\cleardoublepage 
+
+# (APPENDIX) Appendix {-}
+
+# The final word
+
+Thanks to everyone who has contributed to this book so far. It's great to share and reflect on our journeys, and I know that I've enjoyed looking back on my own publishing story.
+
+To see more **bookdown** books, go to https://bookdown.org.

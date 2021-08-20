@@ -1,0 +1,180 @@
+---
+title: "The back stories to publishing in Biological Sciences: a collection of reflections"
+author: "John Measey"
+date: "`r Sys.Date()`"
+documentclass: krantz
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+site: bookdown::bookdown_site
+description: "As biologists we are used to seeing lots of fantastic papers being successfully published in journals all the time. But we know from bitter experience that our manuscripts may go through many rejections from different journals before finally going into print. Sharing the success is sweet, but this book is about reflecting on the road to that success. This is an opportunity for those who have battled through rejections and difficult reviewers and who have finally overcome. It is written for an audience of Early Career Scientists (and anyone else) who needs the inspiration to keep revising and submitting their manuscripts in order reach their publishing goal."
+github-repo: yihui/bookdown-crc
+graphics: yes
+#cover-image: images/cover.jpg
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+options(
+  htmltools.dir.version = FALSE, formatR.indent = 2, width = 55, digits = 4
+)
+
+# install the packages needed by this book; you fill out c(), e.g. c('ggplot2', 'dplyr')
+lapply(c('xfun'), function(pkg) {
+  if (system.file(package = pkg) == '') install.packages(pkg)
+})
+```
+
+# Welcome {.unnumbered}
+
+Sharing our successes and forgetting how we got there is not a true
+reflection of the pains that many successful biologists go through when
+publishing. The idea of this book is to openly share the struggle behind
+the successes in many different published papers in the Biological
+Sciences. In doing so, I hope that this book will represent a reflective
+experience for those who author chapters about their work, in order to
+look for the positive in what might otherwise be regarded as a
+thoroughly negative experience. For those who read, this shared
+community of practice should represent an insight into the failures that
+everyone goes through - even though you might only see the success. In
+addition, I hope that you can learn some tricks of our trade, in order
+to better prepare you for your own publishing journey. Perhaps most
+importantly, I want this book to provide some inspiration for those of
+you who feel that you might want to give up. Publishing your work is
+very important, we all want you to succeed, but sometimes you will need
+to persevere in order to make the most of your research.
+
+# Requirements for contributors {.unnumbered}
+
+If you want to contribute to this book, there are a few requirements:
+
+1.  You must have published the paper that your story is about, and
+    provide a link to the paper, and if possible the online reviews
+
+2.  You should have been the principle author and/or certainly the
+    corresponding author
+
+3.  This should have been an important paper for you personally, and
+    preferably have some importance for others in your field. If it's
+    not been a big deal for you, then it's not likely to make a good
+    **back story**
+
+4.  Use the first person singular pronoun to tell your story
+
+5.  This is not an opportunity for *ad hominem* attacks, so please avoid
+    names of individuals
+
+6.  Make it personal about you and please do share your feelings. We
+    want to know about the low times, but we also want to know what
+    helped you through them
+
+7.  Use the exercise as an opportunity to reflect on your experience,
+    and provide ideas that might help others who are faced with similar
+    situation
+
+8.  Promote solutions. We know that the current world of publishing is
+    not ideal. Provide some ideas for what you think might have worked
+    in your situation
+
+# Formula for contributors {.unnumbered}
+
+As long as you meet all of the [requirements](#requirements) above,
+there is no compulsory formula, and you are welcome to write your story
+in your way. If you want some pointers of how you could structure your
+chapter, then please see the outline below:
+
+-   Introduction: Tell us a little about you at the time that the study,
+    and the write-up took place:
+
+    -   what stage of your career were you at
+
+    -   where in the world were you
+
+    -   what was your home story at the time
+
+    -   anything else that we need to know in order to appreciate your
+        feelings and attachment to the study itself
+
+-   Back-story to the study: Briefly outline what the study was about:
+
+    -   the approach & ideas
+
+    -   time taken to collect the data
+
+    -   the other co-authors
+
+    -   anything else relevant to understand the completion of the study
+        and its write-up
+
+-   The first submission
+
+    -   where did it go
+
+    -   how long did it take
+
+    -   what was the outcome
+
+    -   what did you learn
+
+-   The second submission
+
+    -   see the first submission
+
+-   Repeat until accepted
+
+-   Reflect on your experience:
+
+    -   What were the major changes that you made to the manuscript
+        between the first submission and acceptance
+
+    -   Who made the difference between the rejections and acceptance of
+        your paper and what did they do?
+
+    -   What were the major lessons that you learned, and how has this
+        changed your approach to publishing moving forwards?
+
+    -   What advice can you give to Early Career Researchers who might
+        be in the middle of their biggest publishing story, but not at
+        the point where they have had their manuscript accepted?
+
+-   If you can, provide a picture or two that adds something personal to
+    the story
+
+# Send me your chapters {.unnumbered}
+
+You can send chapters directly to me at
+[john\@measey.com](john@measey.com), or DM me on Twitter
+[\@AfriHerp](https://twitter.com/afriherp). This book will be published
+[Open
+Access](https://johnmeasey.github.io/How-to-publish-in-Biological-Sciences/openaccess1.html)
+online using [Bookdown](bookdown.org) [@bookdown2016]. I will lightly
+edit chapters prior to posting them. If you want to make it as easy as
+possible, write your chapter in RMarkdown [@rmarkdown2018], and please
+send any citations in BibTex format.
+
+If the book gets interesting, we can approach a publisher, but it should
+always remain Open Access.
+
+## Software information and conventions {.unnumbered}
+
+I used the **knitr**\index{knitr} package [@xie2015] and the
+**bookdown**\index{bookdown} package [@R-bookdown] to compile this book.
+My R session information is shown below:
+
+```{r}
+xfun::session_info()
+```
+
+## Acknowledgments {.unnumbered}
+
+Thanks to everyone who has helped with the compilation of this book.
+
+```{block2, type='flushright', html.tag='p'}
+John Measey  
+Cape Town
+```
