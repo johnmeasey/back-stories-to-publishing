@@ -3,7 +3,7 @@
 # back-stories-to-publishing
 This is an Open Access book (edited by John Measey) detailing the back stories to publishing in Biological Sciences from authors who have struggled but succeeded.
 
-You can read this book for free online at http://www.howtowriteaphd.org/
+You can read this book for free online at https://johnmeasey.github.io/back-stories-to-publishing/
 
 View open-source code for source text and templates at here
 
