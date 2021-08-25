@@ -1,9 +1,13 @@
 fig:freshwater-paths
 fig:celebrate
 fig:proteas-in-fynbos
+fig:BvW-plot
 the-long-road-to-freshwater-paths
 submitting-the-manuscript
 looking-back
+no-mussels-in-patches
+figure-out-how-to-handle-rejections
+the-hard-part
 doing-things-the-old-way
 submitting-the-manuscript-1
 looking-back-1
