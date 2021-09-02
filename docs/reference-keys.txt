@@ -1,5 +1,7 @@
 fig:freshwater-paths
 fig:celebrate
+fig:Strayer-mussel
+fig:Strayer-stream
 fig:proteas-in-fynbos
 fig:BvW-plot
 Measey
