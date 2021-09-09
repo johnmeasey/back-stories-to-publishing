@@ -1,0 +1,72 @@
+# The challenges of publishing novel research {#Hayward}
+
+**Matt W. Hayward** ^1,^ ^2,^ ^3^ 
+
+_^1^Conservation Science Research Group, School of Environmental and Life Sciences, University of Newcastle, Callaghan 2308 NSW Australia; ^2^Centre for Wildlife Management, University of Pretoria, Tshwane X001 South Africa; ^3^Centre for African Conservation Ecology, Nelson Mandela University, Port Elizabeth, South Africa_ [matthew.hayward@newcastle.edu.au](matthew.hayward@newcastle.edu.au)
+
+## Introduction
+
+In 2003, I moved to South Africa from Australia to take up a post-doctoral fellowship with Graham Kerley at the Nelson Mandela Metropolitan University to research the reintroduction of large predators to Addo Elephant National Park (Addo). This was part of several predator translocations that were occurring throughout the Eastern Cape Province at that time [@hayward2007reintroduction]. I had finished my PhD six months earlier on the conservation ecology of the quokka _Setonix brachyurus_ in the Western Australian jarrah forest, and had just completed a short post-doc at the Walter Sisulu University (also in the Eastern Cape Province of South Africa), when I moved down to live in the research area of the staff village in Addo. 
+
+I lived in a 3m x 4m hut (known as a ‘Wendy’ hut, because it was only big enough to fit Peter Pan and Wendy; Figure \@ref(fig:Hayward-wendy)). With me in the research area, there was a team of black rhino _Diceros bicornis_ researchers from New Zealand, an elephant _Loxodonta africana_ researcher from Ireland, and some German’s researching southern red bishops _Euplectes orix_.
+
+(ref:Hayward-wendy) **Life inside a 3m x 4m uninsulated Wendy hut in Addo Elephant National Park in mid-summer.** My research assistant was at pains to model an authentic South African National Parks towel in all its glory.
+
+```{r Hayward-wendy, echo=FALSE, out.width = '85%', fig.cap="(ref:Hayward-wendy)"}
+ knitr::include_graphics("figures/Hayward-wendy.jpg")
+```
+ 
+
+In November 2003, six lions _Panthera leo_ were released from soft release bomas into the Addo Main Camp section. My job was to determine how they fared and what the impacts were. It was an amazing experience. We were fully immersed in our study species. Generally, I would drive out each morning to see what the lions had been up to overnight – as each had radio collars (Figures \@ref(fig:Hayward-radio) and \@ref(fig:Hayward-lion)). Twice each season my girlfriend (now wife Gina) and I would live in the back of our research vehicle for 5 consecutive days following individuals as this is the most robust way to determine their diet, movements and what species they encounter [@mills1992comparison]. We also drove transects each season to determine the density of all potential prey species. We fell in love with South Africa and its people. 
+
+
+(ref:Hayward-radio) **Each day my wife, Gina, and I would venture out into Addo Elephant National Park to see what the lions had killed.** We also performed continuous follows where we lived in the vehicle for 96 consecutive hours to determine the movement patterns, hunting success rates, prey encounter rates and diet of the lions and spotted hyaenas.
+
+```{r Hayward-radio, echo=FALSE, out.width = '85%', fig.cap="(ref:Hayward-radio)"}
+ knitr::include_graphics("figures/Hayward-radio.jpg")
+```
+
+ 
+
+## Back story
+
+Very soon after the release of the lions, I started finding Cape buffalo _Synceros caffer_ carcasses. The lions had been translocated from the Kalahari-Gemsbok National Park about 1000 km to the north, and which is a very different (desert) biome to that found at Addo (sub-tropical thicket biome). Hence, we were unsure of what they would eat, and one of the first conversations I had with the regional manager of South African National Parks, Lucius Moolman, was what their diet would be in Addo. 
+
+Coming from Australia, I had pretty much no idea what they’d eat, so I stupidly assured Lucius that they’d probably eat what they had eaten in the Kalahari. He shook his head and patiently said “Matt, those lions come from the Kalahari. None of the animals they ate up there live down here”. So I thought some more, and offered the suggestion that I’d read that lions were generalist predators [@schaller1972serengeti] and hence they would probably eat the most abundant species in Addo. Again, Lucius shook his head and highlighted that elephants were one of the most abundant species in Addo, and he couldn’t see the lions focusing on them. So I set about doing some research to answer Lucius’ question.
+I thought that if I could determine what lions prefer to prey on throughout the rest of their distribution, it would give me a good idea of what they would eat in Addo. Over the next 6 months, I reviewed the literature on lion diets and related what they killed to the available prey at each study site. I discovered that lions kill five species more frequently than you would expect based on their relative abundance within the prey communities where they exist: blue wildebeest _Connochaetes taurinus_, plain’s zebra _Equus quagga_, giraffe _Giraffa cameleopardalis_, Cape buffalo, and gemsbok _Oryx gemsbok_, and they prefer prey weighing between 90 and 550 kg [@hayward2008prey].
+
+I thought this was a great discovery. Now I could predict the diet of lions at Addo (which we subsequently did with high accuracy; @hayward2007testing). Graham reviewed the paper and was happy to be a co-author, so I submitted it (I think it was to the _Journal of Animal Ecology_). I thought the research was internationally relevant and important in that it offered a way to predict the diet of a predator and the methods could be used for all other large predators that had been sufficiently studied. It got [desk rejected](http://www.howtopublishscience.org/decision.html#desk) without being sent for review. I then submitted it to other international journals (I think _Journal of Applied Ecology_, _Oikos_, _Proceedings of the Royal Society_, _Ecology_ and a couple of others). It was massively disheartening with most rejections being because the results were not considered of 'international importance'.
+
+After almost a year, we submitted the manuscript to the _Journal of Zoology_ and got two excellent reviews – one by an anonymous referee and the other by Rob Slotow. The reviews were excellent because they were critical but offered specific advice on how to improve the manuscript. These were not methodological changes, but rather ways to emphasise the international relevance of our work. We did this and the paper was finally published in 2005: @hayward2005prey.
+
+(ref:Hayward-lion) **All reintroduced predators were fitted with radio collars**. This female (Kamqua) was the first to successfully breed in Addo for over 100 years, and the park staff generously named her cubs after my wife and I.
+
+```{r Hayward-lion, echo=FALSE, out.width = '85%', fig.cap="(ref:Hayward-lion)"}
+ knitr::include_graphics("figures/Hayward-lion.jpg")
+```
+
+
+## The outcome
+
+Since publishing that first paper on lion prey preferences [@hayward2005prey], I recognised the important results it yielded on the critical prey requirements of the lion and that this would be important knowledge to help conserve all large predators. Hence, I expanded this field of research by investigating other large predators in Africa from leopards _Panthera pardus_ [@hayward2006preyb], to cheetahs _Acinonyx jubatus_ [@hayward2006preyc], spotted hyaenas _Crocuta crocuta_ [@hayward2006preya], African wild dogs _Lycaon pictus_ [@hayward2006preyd], and jackals [@hayward2018prey; @hayward2017factors]. When you’re on a winner, you should stick to it – so I extended the species studied to large predators on other continents, including tigers _Panthera tigris_ [@hayward2012prey], dholes _Cuon alpinus_ [@hayward2014diet], and jaguars _Panthera onca_ [@hayward2016prey]. I have also had students or collaborators who have extended this research to chimpanzees _Pan troglodytes_ [@bugir2021prey], snow leopards _Panthera uncia_ [@lyngdoh2014prey], wolves _Canis lupus_ [@jedrzejewski2012prey], brown bears _Ursus arctos_ [@niedzialkowska2019meta-analysis], Pleistocene predators [@valkenburgh2016impact] and even humans [@bugir2021preya]. This research has led to an ability to accurately predict the diet of lions [@hayward2007testing], and determine the number of large African predators that can be sustained at a site based on the available prey communities [@hayward2008prey; @hayward2007carrying]. The relationships we discovered between the biomass of preferred prey species and prey within the preferred weight range of lions, leopards and spotted hyaenas has enabled us to determine whether fencing constrains their movements in fenced conservation areas [@hayward2008fences]. We were also able to reinforce the validity of our results by illustrating that the prey preferences lions exhibit are reinforced throughout the predatory behavioural sequence [@hayward2011lions]. 
+
+These papers have been cited almost 3000 times on Google Scholar since 2005, and amass over 180 citations each year (Figure \@ref(fig:Hayward-citations)). Our discoveries have now led to our predictions of carrying capacity to be used in fenced reserves throughout southern Africa [@ferreira2014managing], and are being implemented as a way of estimating the number of tigers that can be sustained in tiger sanctuaries in India (Y.V. Jhala, Wildlife Institute of India, pers. comm.). The research has also been acknowledged as some of the few that has yielded real benefits to carnivore conservation [@balme2014failure].   
+
+(ref:Hayward-citations) **Total citations and citations per year of studies that have arisen because of the methods developed in the initial lion prey preferences paper [@hayward2005prey].** The different species studied are shown along the x-axis while citations (total blue and per annum red) are shown on the y-axis (at the time of writing in September 2021).
+
+```{r Hayward-citations, echo=FALSE, out.width = '85%', fig.cap="(ref:Hayward-citations)"}
+ knitr::include_graphics("figures/Hayward-citations.png")
+```
+
+
+## Advice to Early Career Researchers
+
+My main advice to people new to academic publishing is to treat publishing as a game – [don’t take rejections to heart.](http://www.howtopublishscience.org/decision.html#rejection) It really shouldn’t be taken too seriously given you have to firstly convince a single Editor to send your manuscript for review. That person may have no idea about your field, or may be having a bad day. They may just miss the point. This is not a metric upon which to base your personal value of your scientific quality. Then you need two referees to view your manuscript supportively. So essentially there are three people you need to satisfy to get your paper published. This is a very small sample size, and they could easily be wrong. Don’t give up. If they aren’t pointing out major methodological problems with your work, don’t panic. Use their advice to improve the manuscript, and keep going. The real test is whether your peers see value in your work by citing it – and at ~180 citations per year, I’m comfortable the methods are robust and the conclusions valid.
+
+I would urge you also to use the referees comments to [improve your work](http://www.howtopublishscience.org/decision.html#rebuttal). Go through every single comment and, if it is valid, change your manuscript accordingly. Be brave enough to stick to your guns if you disagree, but remember that the referees are likely to be [well regarded in the field](http://www.howtopublishscience.org/peerreview.html#who-are-your-peers), so they probably know a thing or two. Hopefully they will be specific in their comments to illustrate exactly what needs to change and how. Use their expertise to your benefit – even if they are mean. 
+
+## Another final twist
+
+The ecological world seems satisfied with the prey preference research, now readily accepting the methods we have employed on a broad suite of animals. Recently, I took on a student to expand this field of research to look at the prey preferences of hominids – Neanderthals _Homo neanderthalensis_ and anatomically modern humans _H. sapiens_. The journals she has sent these manuscripts to are largely archaeological and palaeontological (_Journal of Human Evolution_ for example) – and we are getting the same kinds of blow-back. Comments questioning the accuracy of the results because at the site the referee works Neanderthals prefer shellfish rather than large animals, for example, are made. We still get similar concerns raised with our carnivore results on the same grounds – indicating a lack of comprehension that a result from a single site is an anecdote, compared to results from multiple sites throughout a species’ range. 
+
+My PhD student is disheartened by these rejections. Sadly, I’ve been here before. 
