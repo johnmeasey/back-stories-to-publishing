@@ -1,3 +1,7 @@
+fig:Hayward-wendy
+fig:Hayward-radio
+fig:Hayward-lion
+fig:Hayward-citations
 fig:freshwater-paths
 fig:celebrate
 fig:Strayer-mussel
@@ -5,10 +9,12 @@ fig:Strayer-contour
 fig:Strayer-stream
 fig:proteas-in-fynbos
 fig:BvW-plot
-fig:Hayward-wendy
-fig:Hayward-radio
-fig:Hayward-lion
-fig:Hayward-citations
+Hayward
+introduction
+back-story
+the-outcome
+advice-to-early-career-researchers
+another-final-twist
 Measey
 submitting-the-manuscript
 looking-back
@@ -18,11 +24,5 @@ the-hard-part
 vanWilgen
 submitting-the-manuscript-1
 looking-back-1
-challenges-of-publishing-novel-research
-introduction
-back-story
-the-outcome
-advice-to-early-career-researchers
-another-final-twist
 the-next-chapter
 the-final-word
