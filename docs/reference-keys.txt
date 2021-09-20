@@ -4,6 +4,7 @@ fig:Hayward-lion
 fig:Hayward-citations
 fig:freshwater-paths
 fig:celebrate
+fig:Navas-study-site
 fig:Strayer-mussel
 fig:Strayer-contour
 fig:Strayer-stream
@@ -18,11 +19,14 @@ another-final-twist
 Measey
 submitting-the-manuscript
 looking-back
+Navas
+the-four-thesis-papers
+looking-back-1
 Strayer
 figure-out-how-to-handle-rejections
 the-hard-part
 vanWilgen
 submitting-the-manuscript-1
-looking-back-1
+looking-back-2
 the-next-chapter
 the-final-word
