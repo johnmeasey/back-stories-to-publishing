@@ -10,6 +10,10 @@ fig:Strayer-contour
 fig:Strayer-stream
 fig:proteas-in-fynbos
 fig:BvW-plot
+population-ecology-of-arid-zone-birds
+blue-cranes-in-the-karoo
+sociable-weavers
+the-view-from-the-other-side
 Hayward
 introduction
 back-story
