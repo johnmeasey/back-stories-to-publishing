@@ -1,0 +1,39 @@
+# Population ecology of arid zone birds {#Altwegg}
+
+**Res Altwegg**
+
+
+*Centre for Statistics in Ecology, Environment and Conservation, Department of Statistical Sciences, University of Cape Town.*
+
+Most of my published papers were first rejected by a different journal than the one they ended up being published in. That includes almost all of my best-cited papers. I have learned to move on after a [rejection](http://www.howtopublishscience.org/decision.html#rejection), revise the manuscript if there were any comments and send it to the next journal. I don't spend a lot of mental energy on past rejections and therefore can't remember many of them in detail. There are a few, however, that I remember clearly.
+
+## Blue cranes in the Karoo
+
+I was a postdoc at the time, and interested in demography and population ecology. Mark Anderson who was then the provincial ornithologist in Northern Cape province (South Africa) sent me mark-recapture data that he and his team had collected on blue cranes, *Anthropoides paradiseus*, over 12 years. I was very excited. Not only are blue cranes really beautiful birds and the South African national bird (Figure \@ref(fig:Altwegg-blue-crane)), the data also gave us some really interesting insights into how environmental variation can affect populations. When demographic parameters -- age-specific variation in survival and reproduction -- vary from year to year, this normally has a negative effect on population growth. The Karoo is a semi-arid area in South Africa and in (semi-)arid areas, variability in rainfall is a key driver for most biological processes as it makes demographic parameters vary over time. We found that the cranes were particularly successful at reproducing in years that had unusually large amounts of rain. We realised that environmental variability can have a positive effect on population growth if the relationship between the driver (rainfall in our case) and the demographic parameter (reproduction in our case) is convex. We submitted the manuscript to *Journal of Animal Ecology* where it got rejected largely because the reviewers could not wrap their heads around the idea that environmental variation can actually increase population growth, which went against the conventional wisdom at the time. *Oikos* also rejected our manuscript for similar reasons. We finally got it published in *Functional Ecology* [@altwegg2009rainfall] and the idea has been confirmed by other studies since then.
+
+(ref:Altwegg-blue-crane) **A Blue Crane, *Anthropoides paradiseus*, parading**. Blue Cranes are an amazing sight. Image by Bernard DUPONT.
+
+```{r Altwegg-blue-crane, echo=FALSE, out.width = '65%', fig.cap="(ref:Altwegg-blue-crane)"}
+ knitr::include_graphics("figures/Altwegg-blue-crane.jpg")
+```
+
+
+## Sociable weavers {#weaver}
+
+Another long-term project that Mark Anderson initially started and that has since become one of the most detailed demographic study on birds in South Africa is on Sociable Weavers, *Philetairus socius*, near Kimberley. These birds live in colonies centred on large communal nests that they build mostly in trees (Figure \@ref(fig:Altwegg-weaver-nest)). Mark Anderson, Rita Covas and others had collected demographic information on thousands of individual weavers living at $sim$ 20 colonies over $>$ 15 years, which gave us an opportunity to examine meta-population dynamics in unique detail. We sent the manuscript to the *Journal of Animal Ecology* (again...) and received a decision of [Major Revision](http://www.howtopublishscience.org/submit.html#a-typical-submmission-work-flow). The reviewer comments were quite extensive but we felt that we were able to address all of them. The editor also asked us to make time-consuming changes to get the manuscript in line with specific journal requirements. Our re-submission was reviewed again -- and then rejected, largely due to a misunderstanding on part of one of the reviewers about the statistical methods we had used! The reason why this rejection still lingers in my memory is because it felt like such a waste of time and resources back then. We did eventually get the paper published in *Oecologia* [@altwegg2014climate], and I believe it is still one of the most detailed demographic studies of a complex meta-population.
+
+
+(ref:Altwegg-weaver-nest) **A Sociable Weaver, *Philetairus socius*, nest**. The nests of these birds can attain large sizes and dominate the arid landscape.
+
+```{r Altwegg-weaver-nest, echo=FALSE, out.width = '85%', fig.cap="(ref:Altwegg-weaver-nest)"}
+ knitr::include_graphics("figures/Altwegg-weaver-nest.jpg")
+```
+
+
+## The view from the other side
+
+One thing that has helped me deal with manuscript rejections is my involvement with the editorial process as reviewer and especially as editor. I have reviewed about 250 manuscripts and handled close to another 500 manuscripts as an editor. This has taken up a lot of my time. And it has helped me better appreciate the time others spend commenting on my work. I think it's fair to assume that editors never take the decision to reject a manuscript lightly. I remember some of the rejections I made as an editor at least as well as I remember getting my own papers rejected. Rejections happen because the editor feels that the manuscript does not fit with the aims of the journal. Perhaps the data do not allow for the types of insights to be gained that the journal expects. Perhaps the goal of the study simply isn't [within the scope](http://www.howtopublishscience.org/whichjournal.html#scope) of the journal. 
+
+The decision to reject is not always clear. Some of the more memorable cases were manuscripts that I initially felt unsure whether they would be suitable for the journal but decided to obtain the opinion of others and sent them out for review. Some of them came back with mixed reviews and I decided to give the authors the benefit of the doubt and invited a revision. In a few cases, manuscripts went through another round of review after which it became clear to me that they would not make the cut. I can imagine that these authors felt as I had after having my [Sociable Weaver](#weaver) manuscript rejected. And therefore, as an editor, I always did my best to avoid these situations. Giving a marginal manuscript "a chance" is not always kind to the authors...
+
+So here are a few lessons I have learned about the publication process. The process is not perfect but it is fair to assume that editors and reviewers spend quite a bit of time and effort on your work, even if the outcome is disappointing for you or feels unfair. Appreciate any comments you get and do your best to improve your manuscript before resubmitting. It feels really bad as a reviewer if you are being asked to review the same manuscript again for a different journal and you see that all your earlier comments were completely ignored. Also, never send angry letters to editors -- that really is inconsiderate. Finally, getting a [desk rejection](http://www.howtopublishscience.org/decision.html#desk) can feel particularly bad but is usually not an indication that the editor did shoddy work. Be grateful for a quick decision that allows you to move on and submit elsewhere.
