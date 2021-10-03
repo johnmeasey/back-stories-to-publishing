@@ -1,3 +1,5 @@
+fig:Altwegg-blue-crane
+fig:Altwegg-weaver-nest
 fig:Hayward-wendy
 fig:Hayward-radio
 fig:Hayward-lion
@@ -10,9 +12,9 @@ fig:Strayer-contour
 fig:Strayer-stream
 fig:proteas-in-fynbos
 fig:BvW-plot
-population-ecology-of-arid-zone-birds
+Altwegg
 blue-cranes-in-the-karoo
-sociable-weavers
+weaver
 the-view-from-the-other-side
 Hayward
 introduction
