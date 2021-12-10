@@ -1,5 +1,7 @@
 fig:Altwegg-blue-crane
 fig:Altwegg-weaver-nest
+fig:Benneydale
+fig:Ferry
 fig:Hayward-wendy
 fig:Hayward-radio
 fig:Hayward-lion
@@ -19,8 +21,13 @@ Altwegg
 blue-cranes-in-the-karoo
 weaver
 the-view-from-the-other-side
+Cassey
+it-is-never-really-that-easy
+how-to-identify-a-reviewer
+you-might-say-the-rest-is-history
 Ferry
-focussing-on-the-why.
+some-general-musing-on-publishing-papers-for-those-about-to-try-it-out
+focussing-on-the-why
 sometimes-it-gets-personal
 youll-need-a-support-system
 Hayward
