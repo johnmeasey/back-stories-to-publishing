@@ -1,0 +1,41 @@
+# Swimming in the world of academic publishing like a fish out of water {#Ferry}
+
+**Lara Ferry**
+
+
+*School of Mathematical and Natural Sciences, Arizona State University, Phoenix, Arizona.*
+
+## Some general musing on publishing papers for those about to try it out
+
+**RUN!** 
+
+Just kidding. It actually is really quite rewarding to see your work in print (virtual as that may be these days). And, I do encourage it early, and often, for my own undergraduate and graduate students. But, I do feel like I need to put a little safety bubble around them when they are first starting out.
+ 
+
+Bear in mind that I, myself, have never had a paper published by a journal without receiving a request for fairly major revisions, to this date. So, I write this article from the perspective of serving on the editorial boards now of several journals, and serving presently as the Senior Executive Editor of the journal *Functional Ecology*. I may have been around a while, in academic terms, but some of the scars from my early years as a developing author still feel as fresh as the day they arrived (yes, I have been around long enough that my first few manuscripts were printed and sent via snail mail, in an envelope!). So, I write this piece now thinking of my own experience as an author, and I reiterate that, even with these editorial positions under my belt, I still get reviews that ask for quite major revisions from me, nearly every time (Figure \@ref(fig:Ferry)). It happens to us all, and it is a reflection of the process. We don’t outgrow this kind of feedback, we just get thicker skins. 
+
+
+(ref:Ferry) **Escaping from the editor's jaws.** Lara Ferry is the Principle Investigator of the [Functional Morphology lab](https://morphology.asu.edu/functional-morphology) in Arizona State University.
+
+```{r Ferry, echo=FALSE, out.width = '85%', fig.cap="(ref:Ferry)"}
+ knitr::include_graphics("figures/Ferry.jpg")
+```
+
+
+## Focussing on the ‘why’
+
+The process is pretty trimmed down, especially these days. Only a couple of people read your paper – two, maybe three reviewers, maybe an associate editor, an editor – and they are doing their best to make sure that only really good work gets into the journal. And, that is a good thing. Editors have to keep a lot of things in mind, not just if the paper is good. It has to be the right fit for the journal. That might feel a little unfair. But readers know to go to certain journals for certain kinds of information. And, journals have to survive, and to survive, they need readers. The singular and imperfect measure of this is [Impact Factors](http://www.howtopublishscience.org/impactfactor.html), and the like, but that is a rant for another day.
+
+You should view the really critical comments on your paper as the generous gift that they are. Painful, possibly, yes. But, writing those kinds of reviews is incredibly time consuming. And, typically, a review is something that faculty member X had to do at home, at night, as it couldn’t be fit into the regular work day of teaching, researching, serving, etc. So, read the review, set it aside, and then come back to it when the feelings have subsided a little and re-read it as the supportive document that it was meant to be. Someone, probably someone you don’t even know, has taken time to try improve your work sufficiently for it to be published in a journal. Make the changes (don’t argue with this person who has given you this gift). If the reviewer misunderstood what you, the author, meant, rewrite it. That is on you, not the reviewer. And, so on.
+
+## Sometimes it gets personal
+
+Of course, we have all seen the reviews where it got personal. The reviewer felt compelled to fix something, probably not you, the author, and was going to do it through the review. So, they are really over critical. These are actually really rare. Yes, these folks exist. Good editors learn about them and weed them out of the system. If you think you got an unfair review from one of these kinds of people, and it didn’t get addressed by the editor, reach out. Let the editor know your thoughts. Politely, please, editors are people too. But, editors are here to help you through the process, and to help young writers learn their craft.
+
+Bear in mind too that this profession we are in, which requires academic publishing, and perhaps all of academia, if you are in that line of work, is based, exclusively, on negative feedback. We cut our teeth as young scientists, in graduate school, in the ‘Journal Club’ or some group meeting with the universal and singular goal to ‘review important papers in the field’. Review, in nearly every case, equates to shred. We are trained, like lion cubs, to go for the kill. This means that the fact that you only got negative feedback on your manuscript, and that it feels picked over like buzzards were at a road kill, isn’t personal, and is merely the current culture of academia. I am not saying this culture is good, or defending it in any way. I am just saying that is how it is, at least at present. I hope for a day when this isn’t the case any longer, and I do see the culture shifting to one that is much more supportive of young authors (this book is a case in point). But, we have a way to go still.
+
+
+
+## You'll need a support system
+
+So, build your support system, and rely on it in as you develop your writing prowess. Know that you will continue to need them, and think of them as a lifelong network. I am reminded of a semi-recent paper with a collaborator with whom I have worked with every now and then since we were in graduate school together, Dr. Alice Gibb. The paper was rejected from *Science*, and a few other places, before it landed at a nice, respectable outlet, *PLOS ONE* [@boumis2014heads]. Once it was published, a writer from *Science* reached out, and the publication was subsequently featured as a [highlight](https://www.eurekalert.org/news-releases/593245). We’d gone full circle! On reflection, the paper was too weird for most places. It was about fish jumping… on land. Yes, that odd behaviour that a fish does when you place it where it does not want to be, high and dry. I add here, many an editor (and colleague!) told us there was nothing of value in watching fish flop about on land. Turns out there is a fair bit of coordination to that behaviour that just looks like thrashing about to you and I. Alice had the good sense to take a closer look, I was lucky enough to be invited to come along on the journey. Turns out Alice and her team, and partly me, uncovered a really cool system, that explains how fish get back to the water when they find themselves stranded, how they sense what to do, and how it just might explain the underlying mechanism that facilitated the all-important transition from water onto land in our evolutionary history. The moral of this story is, if the work is interesting to you, don’t give up on it. Uncover the thing that is driving your interest, and, use your passion to tell your story. The greatest discoveries are made this way. Go figure. You never know where the road is going to take you when you embark upon it. But, take the journey, and be open to its twists and turns. 

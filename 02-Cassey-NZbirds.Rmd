@@ -1,0 +1,47 @@
+# Who taught you to write scientific papers? {#Cassey}
+
+**Phill Cassey**
+
+
+*Invasion Science & Wildlife Ecology Lab, University of Adelaide, SA 5005, Australia.*
+
+
+We all remember our first paper rejection. The emptiness and anger that comes with being told that your research is not good enough to be published. For many this comes during a pivotal time in your research career. This is often at a time when you are completing a postgraduate degree and, if you are like me, competing with overwhelming [imposter syndrome](http://www.howtowriteaphd.org/fear.html). Although, if you listen to most (worthwhile) scientists, while imposter syndrome allays it never entirely goes away. I was privileged during my Master of Science (MSc) degree at Auckland University, New Zealand to have two very different but equally supportive and immensely clever Supervisors – John Craig and Brian McArdle. They were both mentors, colleagues, and friends all rolled together. I published two papers from my MSc within a year of completion, and both manuscripts passed through the review system unscathed and with relative ease [@cassey1999estimating; @cassey1999assessment]. I was confident, sure of myself, and a bit of an ass.
+
+## It is never really that easy
+
+Enter my PhD, and a time of enormous uncertainty. It was as different from my previous experience as I could imagine. Before I commenced my PhD I had worked for six months tutoring at Auckland University. I then travelled for six months camping with two high school friends through the Mediterranean and the Far East. I visited Universities along the way looking for opportunities, but eventually came back to Griffith University in Brisbane, Australia. I had a Scholarship, but no plan. My Supervisor was an unknown quantity, and over the next four years we drifted further and further apart, never managing to get along. Me because I was probably still an ass, and him, well the less said the better. I was struggling, but I had peers who made it worthwhile. Consistently they encouraged me to continue and, at some point at the end of my first year, I wrote a paper. It was a culmination of my own ideas and interests, and what I was learning from the people around me. It was exciting and I was proud of it.
+
+I have always missed New Zealand, and I always will. Not in a homesick way, but more like a mourning. I was happy in Brisbane, but this paper connected me back home. It was a study of the dynamics of the land bird fauna in New Zealand, through time, connecting the different periods of human occupation with their extinction and invasion. The paper was a set of ideas that would forge the approach and hypotheses for the rest of my PhD, and for many subsequent papers, grants and collaborations to come. It was also my first (and still one of very few) sole-author papers. I had no-one else to share the highs and lows with. This was my work alone, and only I was to blame for all of its faults.
+
+I submitted the paper to the *Journal Global Ecology & Conservation Letters*. Robert Whittaker was the [Editor in Chief](http://www.howtopublishscience.org/peerreview.html#boards) and it was a relatively young journal, which I read a lot and greatly admired. I don’t remember how many reviews it received, but one review in particular was brutal. The Reviewer had written what seemed like an essay critiquing and criticising the paper – everything from the writing and approach, to the analyses and datasets. And the Review started with one particularly scathing sentence I could never forget: 
+
+> “The gulf between this paper and what is expected in an international scientific journal is enormous”.
+>
+> ---Anonymous 
+
+## How to identify a Reviewer
+Aside from the length of the Review there were two other noteworthy things about it. The first was that Rob Whittaker apologised in his cover letter for the tone and aggressiveness of the Reviewer. He observed that the topic and analyses were of interest and scope to the journal and that among the vitriol (my own term) there were some useful and constructive comments. If I was willing to work through these then he would consider a revised submission. The effect that this small act of positive encouragement had on me was immense. The second was that the Reviewer had cited six published papers from one particular author, Tim M Blackburn, throughout the Review. I knew Blackburn’s work well. His paper ‘Animal body size distributions: patterns, mechanisms and implications’ with Kevin Gaston [-@blackburn1994animal] was one of the first papers I remember reading and thinking: ‘Shit, science is cool. I want to be a scientist!’. Now I was faced with the realisation that Tim M Blackburn had (with all statistical likelihood) either reviewed my paper, and hated it – or been the victim of some very perverse Reviewer identity fraud. 
+
+A PhD is a wonderful time. It is a time of longstanding friendships and huge personal sacrifice and development. Despite the trauma of the rejection, I ultimately knuckled down and revised the manuscript. I took advantage of Rob Whittaker’s offer to resubmit the revised paper, and it was published in March 2001. This was the first empirical chapter of my PhD [@cassey2001determining].
+
+
+On December 11th 2001 I submitted my PhD, and within a week I was back in New Zealand and travelling to Christchurch to meet with Richard Duncan at Lincoln University. Richard had recently published two articles that were very similar to the subject of my PhD [@duncan1999determinants; @duncan1999fate], and I had written to him expressing an interest in the work and a desire to discuss my own research with him. He had invited me to come to Christchurch to give a seminar on my PhD and meet a colleague of his who was visiting from the United Kingdom – Tim M Blackburn.
+
+
+## You might say the rest is history 
+I went to Christchurch met with Tim and Richard, we talked a lot, drew on whiteboards, ate curry, drank beer – and I missed my flight home. At one point, walking towards the café for lunch, I asked Tim if he had reviewed my paper. I don’t remember his response. 
+
+
+Tim and I have published over 50 papers together, many of these with Julie Lockwood – who reviewed my PhD Thesis and was one of the first people to try and persuade me that Tim was not a complete bastard. The three of us have become very good friends (Figure \@ref(fig:Benneydale)). I never talked to my PhD Supervisor again, but I owe much of my good fortune and career success to my first bad Reviewer and my PhD Assessor. It is not always clear, nor predictable in science or life, who our best mentors, colleagues and friends will be. 
+Tim is not the only person to have insulted my papers. Stuart Pimm (in a signed review) once called my work ‘slop bucket’, but the funny thing is that Tim and Julie were also co-authors on that paper. You are not always going to know who your Reviewers are, and you’re even less likely to be best man at their wedding. However, the thing with peer-review is that Reviewers are always other researchers. You will quite likely meet them one day, at a Conference, on a Zoom Working Group, in a pub, and no matter how rude they are in their Reviews, and how much you hate them at the time, the chance to improve your work and submit it again is almost always a good thing. 
+
+(ref:Benneydale) **The only *Science* paper I have ever written.** Phill Cassey and Tim M Blackburn in Benneydale, New Zealand, circa 2004. The best place in the world to write a *Science* paper.
+
+```{r Benneydale, echo=FALSE, out.width = '85%', fig.cap="(ref:Benneydale)"}
+ knitr::include_graphics("figures/Benneydale.png")
+```
+
+
+In the end, I have always believed you should Review other people’s work in the same constructive manner you would like your own research reviewed.
+
