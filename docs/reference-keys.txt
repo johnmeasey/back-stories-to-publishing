@@ -1,5 +1,6 @@
 fig:Altwegg-blue-crane
 fig:Altwegg-weaver-nest
+fig:Blackburn-spotting
 fig:Benneydale
 fig:Ferry
 fig:Hayward-wendy
@@ -21,6 +22,12 @@ Altwegg
 blue-cranes-in-the-karoo
 weaver
 the-view-from-the-other-side
+Blackburn
+dukkha
+samudāya
+nirvana
+magga
+acknowledgements
 Cassey
 it-is-never-really-that-easy
 how-to-identify-a-reviewer
