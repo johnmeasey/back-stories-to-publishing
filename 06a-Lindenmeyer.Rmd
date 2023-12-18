@@ -1,0 +1,52 @@
+# A three-year journey on a ground-breaking paper {#Lindenmayer}
+
+
+**David Lindenmayer**
+
+*Fenner School of Environment and Society, Building 141, Linnaeus Way, The Australian National University, Canberra, Australian Capital Territory 2601, Australia.*
+
+## Introduction 
+Scientific publishing has always been tough, but its getting harder and harder every day. Indeed, I have seen assessments indicating that the average paper in the ecological sciences might go to 3-4 different journals before it “finds a home” and is eventually published. Of course, this is in the context of what I call **'Type III errors'** in science publishing in which really bad papers are published (that probably should not be) as well as really good papers that are rejected (and sadly sometimes never get published at all). 
+
+In this article, I briefly outline some key aspects of the journey involved in publishing a major paper titled: “Disturbance-stimulated flammability” that eventually appeared in the journal *Biological Reviews* [@lindenmayer2024identifying]. This was a three-year journey, and a very painful one at that. I have published many scientific papers in my time (more than 920 in peer-reviewed national and international journals) and the journey I describe here was, without doubt, one of the most difficult. However, in many ways, I am grateful for the input from the various referees along the way. This is because, on reflection, there is no doubt that their comments made for a paper that was, eventually, a far better contribution than it would otherwise have been. 
+
+
+## A three-year publishing odyssey 
+In 2020, and in collaboration with colleague Dr Philip Zylstra, I began thinking about the relationships between the flammability of forests and the age of forest stands (Figure \@ref(fig:Lindemeyer-fires)). Some earlier work with colleague Dr Chris Taylor and (based on empirical analyses following wildfires in eastern Australia in 2009 and 2019-2020), showed that the severity of wildfires was significantly lower in old forests relative to young stands [@taylor2014nonlinear]. This pattern seemed to be more widespread than just south-eastern Australia where we had documented such stand age-fire severity relationships. 
+
+
+(ref:Lindemeyer-fires) **A set of images that triggered some deep thinking about what is going on with fire severity.** Tall, wet forest in south-eastern Australia (Image A) which had then been thinned (Image B), and subsequently burnt at high severity (Image c). Photos by Dr Chris Taylor, The Australian National University.
+
+```{r Lindemeyer-fires, echo=FALSE, out.width = '85%', fig.cap="(ref:Lindemeyer-fires)"}
+ knitr::include_graphics("figures/Lindemeyer-fires.png")
+```
+
+
+
+
+Our initial thinking was that lower levels of fire severity in old growth forests highlighted the importance of protecting old growth forests. This seemed to be another reason for protecting old growth forests (beyond their value for biodiversity, carbon storage and the maintenance of the integrity of water catchments). After an initial short manuscript was scoped out, we submitted an expression of interest to the Editor of *Conservation Biology*. I need to declare that the Editor is a colleague with whom I have written a textbook and several co-authored scientific papers. The Editor was broadly supportive of the idea, and made many useful suggestions about ways to strengthen the paper before it was formally submitted. We took on-board these comments and wrote an expanded version of the paper. Initially the paper was constructed around the idea that old growth forests were important to conserve because that is where fire severity is lowest. 
+
+The paper underwent major revisions following a first set of comments from referees. One of the referees was very supportive and suggested minor revisions. The two other referees were very critical and made numerous comments, indicating that they thought the paper needed a lot of work to improve it. We were asked to make major revisions which my co-author and I duly did. Our response letter addressing all of the comments was many times longer than the actual length of the paper. 
+
+We resubmitted the paper and again it went out to review. The paper again came back with major revisions, this time a very different set of requested changes. Once again, my co-author and I duly reworked the paper, addressing all of the comments and reframing the manuscript. As with the previous iteration of the paper, the response letter was many times longer than the revised manuscript itself. 
+
+For yet another time we resubmitted the paper. The new set of comments came back with more comments and a decision from the Editor that the paper had been rejected outright. The Editor and an offer to redirect the paper to a sister journal in the same stable as *Conservation Biology* – *Conservation in Practice*. 
+
+## Reframing the paper and a new journal
+
+Part of the problem with the earlier iterations of the manuscript was the paper length restrictions with the first journal which meant that deeper issues associated with the conceptual underpinnings of our proposition could not be fully prosecuted in a short form. We elected to write a much longer paper that investigation many key aspects of stand age-forest flammability dynamics in much greater detail.
+
+After lengthy and careful consideration, my co-author and I also realised that the original framing of the paper was confusing to the referees. In fact, the strongest part of the paper was about how the early stages of stand development were the most flammable rather than the oldest stages of stand development being the least flammable. The evidence for the former was compelling. We also realised that the problem of stand-age related flammability was not just an Australian forest problem, it was also something seen in many ecosystems globally. We therefore completed an extensive formal review of the literature and included the results of that work in the revised paper. We also developed a set of new ideas around the notion of 'ecological controls' and how they influence stand dynamics and related flammability. This meant that the paper was much longer and more detailed than it was previously. 
+
+We submitted our much longer and more detailed paper to *Biological Reviews*. It came back very quickly – one reviewer said it was “the most important paper they had read in a decade”. The other reviewer had concerns about the framing, but stated that they had ideas “of writing this kind of paper themselves”. Eventually – nearly three years after Phil Zylstra and I first started talking about ideas around stand age and forest flammability (and first submitted the original version of our paper), it was finally accepted for publication. 
+
+## Some general perspectives
+
+In each of the reviews by referees, there were useful comments that helped guide revisions. The editorial process at *Conservation Biology* was excellent, even though we did not get the paper published there in the end. In fact, the review process helped improve the paper each time (although there were times when the comments of respective referees were not particularly kind nor encouraging). I, as the lead author, was at fault for not rethinking the framing of the paper early enough. 
+
+A key insight from the journey that was completed with the publication of our paper was that science is very conservative; the ideas we had presented were new and provocative and I believe that this made the paper difficult to publish. I think my experience with this paper really is a story about taking all comments from referees seriously and working out how to improve a paper, including better reframing. Failure to take on-board referees comments in a revision has been termed 'the tragedy of the reviewer commons' [@hochberg2009tragedy]. Nothing upsets a referee more than seeing a paper which you have reviewed previously simply resubmitted to another journal without considering the suggestions for improvement. Perhaps even more importantly, the journey with this paper is about persistence, a situation common with every paper I have ever published. 
+
+## Acknowledgements 
+I thank my co-author Dr Phil Zylstra who was a dedicated co-author on what was a very difficult journey and publication. 
+
+
